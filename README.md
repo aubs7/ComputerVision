@@ -1,6 +1,6 @@
-# CV Techniques using Disease Citrus Leaves
+# CV Techniques using Diseased Citrus Leaves
 
-Welcome to the **CV Techniques using Disease Citrus Leaves Repository**. This repository is dedicated to applying various computer vision techniques for analyzing and detecting diseases in citrus leaves. It provides scripts and resources for image processing, transformation, segmentation, and clustering.
+This repository contains applications of various computer vision techniques for analyzing and detecting diseases in citrus leaves. It provides scripts and resources for image processing, transformation, segmentation, and clustering.
 
 ## Repository Structure
 
